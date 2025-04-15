@@ -8,6 +8,7 @@ public class EjerciciosSemana2POO {
         //ESTUDIANTE: RAMOS DIAZ RENZO FERNANDO 
         
         Triangulo t = new Triangulo (3,7);
+        System.out.println("Esto es un mensaje nuevo");
         System.out.println("------------------ EJERCICIO Nº 1 ------------------");
         System.out.println("El area del triangulo es:" + t.CalcularArea());
         
